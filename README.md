@@ -1,4 +1,4 @@
-Hola Felipe # codebreaker-web
+Hola Pipe # codebreaker-web
 Para instalar paquetes en go se hace con #go get github.com/gin-gonic/gin
 go get funciona como npm install para node js
 Si saca este error: $GOPATH not set
